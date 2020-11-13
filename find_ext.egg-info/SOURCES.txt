@@ -1,0 +1,8 @@
+README.md
+setup.py
+find_ext.egg-info/PKG-INFO
+find_ext.egg-info/SOURCES.txt
+find_ext.egg-info/dependency_links.txt
+find_ext.egg-info/entry_points.txt
+find_ext.egg-info/requires.txt
+find_ext.egg-info/top_level.txt

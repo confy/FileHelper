@@ -1,0 +1,4 @@
+
+                    [console_scripts]
+                    find_ext=find_ext:find_ext
+                   
